@@ -1,5 +1,12 @@
 # @ai-sdk/harness-opencode
 
+## 1.0.72
+
+### Patch Changes
+
+- 83fe754: chore(harness): simplify the `auth` param to be a simple string to choose the auth method
+  - @ai-sdk/harness@1.0.71
+
 ## 1.0.71
 
 ### Patch Changes

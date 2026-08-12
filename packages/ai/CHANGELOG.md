@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.65
+
+### Patch Changes
+
+- 72ec74f: Preserve root-level JSON Schema definitions when wrapping array output schemas.
+
 ## 7.0.64
 
 ### Patch Changes
